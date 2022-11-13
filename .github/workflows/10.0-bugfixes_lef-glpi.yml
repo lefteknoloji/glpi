@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'lef-glpi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_989AD71BC8A544DBAA6F8A0FA3AA18DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_859D016E4ACF449FA191BF8B5FF3B984 }}
           package: .
